@@ -1,2 +1,2 @@
-![knb](knb.png)
+![knb](knb.jpeg)
 # knb-game
